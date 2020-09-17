@@ -1,3 +1,22 @@
+Birth name: Erky Namfoodle Roondar Boddyknock Warryn Sindri Scheppen
+Current name: Big Hammish Rockskull
+Aliases: Big Hamm, Swarf, Bolt
+Birthplace: Forest's Brightening
+Age: 190
+
+##Family:
+###Father
+Name: Crampernap Scheppen
+Aliases: Boxer
+Birthplace: Named Later
+Current residence: Forest’s Brightening
+Other residences: Hupperdook
+Status: Alive and well
+
+###Mother
+Name: Meena Luthra
+Aliases: 
+
 I was born Erky Namfoodle Roondar Boddyknock Warryn Sindri Scheppen, although most people in town just called me Swarf, into a gnome clan in the central foothills of the Dunrock Mountains near the eastern end of the Savalirwood. My father Crampernap is a talented and well-respected tinker who specializes in music boxes. He met my mother back in Hupperdook when she came into his shop looking to buy one. Being a singer with a troupe of minstrels by profession, she wasn't particularly well-off, despite being quite talented. Her troupe was on tour, currently performing at the Scanlan Song Inn.
 
 At the time, my father was a kind man, and single at that. He jokingly offered to give her the one that she wanted if she would let him buy her dinner. To his grea surprise, she accepted. My father was already besotted by the end of dinner, so not only did he keep his word, but he also made her a custom box that played her favorite song. Their courtship went on for a while, Da going along with the troupe in their travels, and after a year or so were married. My sister Abalaba was born about a year and a half later. 

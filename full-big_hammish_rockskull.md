@@ -82,4 +82,3 @@ Occupation: Explorer
 Relationship: Friendly
 Status: Alive and well
 
-t
