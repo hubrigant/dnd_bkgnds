@@ -1,12 +1,12 @@
 Birth name: Erky Namfoodle Roondar Boddyknock Warryn Sindri Scheppen
 Current name: Big Hammish Rockskull
-Aliases: Big Hamm, Swarf, Bolt
+Aliases: Big Hamm, Swarf, Bolt of the North
 Birthplace: Forest's Brightening
 Age: 190
 
 ##Family:
 ###Father
-Name: Crampernap Scheppen
+Name: Crampernap Salnan Ipaser Yelen Vorrug Zilkur Scheppen
 Aliases: Boxer
 Birthplace: Named Later
 Current residence: Forest’s Brightening
@@ -14,12 +14,22 @@ Other residences: Hupperdook
 Status: Alive and well
 
 ###Mother
-Name: Meena Luthra
-Aliases: 
+Name: Meena Spirhana Ufekini Banqys Daphitra Isorhana Luthra
+Aliases: Lively Luthra
+Birthplace: Yrrosa
+Current residence: Unknown, presumed traveling
+Other residences: Hupperdook, Forest’s Brightening
+Status: Alive and well
+
+###Sister
+Name: Abalaba Meena Daphidysa Inadira Zinkasys Grenxi Scheppen
+
+###Brother
+Name: Jabbel Nesmin Farybar Pofan Vortix Bilben Calfiz Scheppen
 
 I was born Erky Namfoodle Roondar Boddyknock Warryn Sindri Scheppen, although most people in town just called me Swarf, into a gnome clan in the central foothills of the Dunrock Mountains near the eastern end of the Savalirwood. My father Crampernap is a talented and well-respected tinker who specializes in music boxes. He met my mother back in Hupperdook when she came into his shop looking to buy one. Being a singer with a troupe of minstrels by profession, she wasn't particularly well-off, despite being quite talented. Her troupe was on tour, currently performing at the Scanlan Song Inn.
 
-At the time, my father was a kind man, and single at that. He jokingly offered to give her the one that she wanted if she would let him buy her dinner. To his grea surprise, she accepted. My father was already besotted by the end of dinner, so not only did he keep his word, but he also made her a custom box that played her favorite song. Their courtship went on for a while, Da going along with the troupe in their travels, and after a year or so were married. My sister Abalaba was born about a year and a half later. 
+At the time, my father was a kind man, and single at that. He jokingly offered to give her the one that she wanted if she would let him buy her dinner. To his great surprise, she accepted. My father was already besotted by the end of dinner, so not only did he keep his word, but he also made her a custom box that played her favorite song. Their courtship went on for a while, Da going along with the troupe in their travels, and after a year or so were married. My sister Abalaba was born about a year and a half later. 
 
 After Abbly was born, Da wanted to settle down, saying that the road is no place to raise a child. Reluctantly, Ma agreed, and they bought a home in Forest’s Brightening, a tiny gnome village nestled in the Dunrock Mountains foothills at the very eastern tip of the Savalirwood. Da set up shop and Ma started singing in the inn. I was born there about five years later. While she stayed in Forest’s Brightening, Ma missed being on the road, so when the local minstrel troupe The Shrunken Rooster returned home from touring and asked her to join, she jumped at the chance.
 
@@ -101,4 +111,3 @@ Occupation: Explorer
 Relationship: Friendly
 Status: Alive and well
 
-t
