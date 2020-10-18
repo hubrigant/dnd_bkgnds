@@ -11,6 +11,7 @@ Aliases: Boxer
 Birthplace: Named Later
 Current residence: Forest’s Brightening
 Other residences: Hupperdook
+Occupation: Music box maker
 Status: Alive and well
 
 ###Mother
@@ -19,13 +20,46 @@ Aliases: Lively Luthra
 Birthplace: Yrrosa
 Current residence: Unknown, presumed traveling
 Other residences: Hupperdook, Forest’s Brightening
+Occupation: Singer
 Status: Alive and well
 
 ###Sister
 Name: Abalaba Meena Daphidysa Inadira Zinkasys Grenxi Scheppen
+Aliases: Abdly
+Birthplace: Forest's Brightening
+Current residence: Dreemth Ravine
+Other residences: Talonstadt, Xarzith Kitril, Blooming Grove, Druvenlode, Shattengrod
+Occupation: Archiologist/scholar/explorer
+Status: Alive and well
 
 ###Brother
 Name: Jabbel Nesmin Farybar Pofan Vortix Bilben Calfiz Scheppen
+Aliases: Jab, Fary, Bil
+Birthplace: Forest's Brightening
+Current residence: Forest's Brightening
+Other residences: none
+Occupation: Music box maker
+Status: Alive and well
+
+##Other Relationships
+###Former lover
+Name: Tana Shanil Duvamil Oda Ariroe Rosimiphi
+Aliases: Rosy, Tany
+Birthplace: Hupperdook
+Current residence: Unknown
+Other residences: Rexxentrum, Molaesmyr, Port Damali
+Occupation: Adventurer
+Status: Alive and well
+
+###Close friend
+Name: Roscoe Thorngage
+Aliases: Lifter
+Birthplace: Uthodurn
+Current residence: Unknown
+Other residences: Unknown
+Occupation: Adventurer
+Status: Alive and well
+
 
 I was born Erky Namfoodle Roondar Boddyknock Warryn Sindri Scheppen, although most people in town just called me Swarf, into a gnome clan in the central foothills of the Dunrock Mountains near the eastern end of the Savalirwood. My father Crampernap is a talented and well-respected tinker who specializes in music boxes. He met my mother back in Hupperdook when she came into his shop looking to buy one. Being a singer with a troupe of minstrels by profession, she wasn't particularly well-off, despite being quite talented. Her troupe was on tour, currently performing at the Scanlan Song Inn.
 
@@ -83,31 +117,3 @@ Met up with the barbarian clan that ended up taking him in
 They were battling some wild orcs, so I drew my short sword and dashed in to help
 Was wounded, slashed across the face, but he did manage to take down an orc and assisted on a couple of others
 the clan was impressed with his zeal
-
-Parents
-Mother
-Name: Meena Luthra
-Alignment: Neutral
-Occupation: Entertainer
-Relationship: Friendly
-Status: Dead (Suicide? Killed by her husband?)
-Father
-Name: Crampernap Scheppen
-Alignment: Lawful evil
-Occupation: tinkerer (artisan? artificer?)
-Relationship: Adversarial
-Status: Alive and well
-Siblings
-Younger brother
-Name: Jabble Scheppen
-Alignment: Neutral evil
-Occupation: as father
-Relationship: Hostile
-Status: Alive and well
-Older sister
-Name: Abalaba Scheppen
-Alignment: Neutral good
-Occupation: Explorer
-Relationship: Friendly
-Status: Alive and well
-
